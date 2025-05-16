@@ -1,6 +1,9 @@
 # CRUD_Agenda
 Permite a los usuarios poder administrar sus contactos
 Este proyecto, es de vital ayuda para que tu puedas organizar tus contacto de una manera fácil y sencilla. Tu podrás agregar, eliminar,consultar o actualizar tus contactos de una manera muy intiutitva y facil. Y no te preocupes, que el administrador estará trabajando de manera constante para brindarte un mejor servicio.
+
+
+
 INSTALACION: 
 1.- Primero debes de tener dentro de tu equipo, el software XAMPP, para que puedas inicializar los servicios de Mysql y Apache (que contiene PHP).
 2.- Como segunda instruccion, debes de guardar el presente proyecto, dentro de la ruta C:\Xampp\htdocs\   ahi puedes clonar el proyecto dentro de una carpeta.
