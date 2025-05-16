@@ -2,15 +2,16 @@
 Permite a los usuarios poder administrar sus contactos
 Este proyecto, es de vital ayuda para que tu puedas organizar tus contacto de una manera fácil y sencilla. Tu podrás agregar, eliminar,consultar o actualizar tus contactos de una manera muy intiutitva y facil. Y no te preocupes, que el administrador estará trabajando de manera constante para brindarte un mejor servicio.
 INSTALACION: 
-- Primero debes de tener dentro de tu equipo, el software XAMPP, para que puedas inicializar los servicios de Mysql y Apache (que contiene PHP).
-- Como segunda instruccion, debes de guardar el presente proyecto, dentro de la ruta C:\Xampp\htdocs\   ahi puedes clonar el proyecto dentro de una carpeta.
-- Ahora si entras al panel de control de XAMPP e inicializas Mysql y Apache
-- Te vas a la opcion que dice "admin" dentro de MySQL,  y ahi creas una nueva base de datos llamada "registros_contactos", y despues de ello, ejecutas el script que viene incluido en el proyecto.
-- Ahora ya que tienes todo esto listo, puedes ir a tu navegador (el de tu preferencia) y escribir en la URL localhost/nombre_carpeta_donde_clonaste
-- Y de esa manera vas a poder ver la aplicacion funcional.
+1.- Primero debes de tener dentro de tu equipo, el software XAMPP, para que puedas inicializar los servicios de Mysql y Apache (que contiene PHP).
+2.- Como segunda instruccion, debes de guardar el presente proyecto, dentro de la ruta C:\Xampp\htdocs\   ahi puedes clonar el proyecto dentro de una carpeta.
+3.- Ahora si entras al panel de control de XAMPP e inicializas Mysql y Apache
+4.-Te vas a la opcion que dice "admin" dentro de MySQL,  y ahi creas una nueva base de datos llamada "registros_contactos", y despues de ello, ejecutas el script que viene incluido en el proyecto.
+5.- Ahora ya que tienes todo esto listo, puedes ir a tu navegador (el de tu preferencia) y escribir en la URL localhost/nombre_carpeta_donde_clonaste
+    Y de esa manera vas a poder ver la aplicacion funcional.
 
   ESTE PROYECTO:
-  Se trata de una pagina web intuitiva, amigable, en la que tu puedes llevar el control de tus contactos, mediante el famoso CRUD, en donde vas a poder crear,actualizar, eliminar y consultar a tus contactos.
+Se trata de una pagina web intuitiva, amigable, en la que tu puedes llevar el control de tus contactos, mediante el famoso CRUD, en donde vas a poder crear,actualizar, eliminar y consultar a tus contactos. El administrador va a tener el permiso de poder cambiar tu contraseña , en dado caso de que tu lo requieras.
+
 
   CAPTURAS:
  ![Captura de pantalla 2025-05-16 141122](https://github.com/user-attachments/assets/125d0105-cf09-4261-8edf-793532455aa5)
