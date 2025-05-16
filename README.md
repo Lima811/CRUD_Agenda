@@ -5,6 +5,7 @@ INSTALACION:
 - Primero debes de tener dentro de tu equipo, el software XAMPP, para que puedas inicializar los servicios de Mysql y Apache (que contiene PHP).
 - Como segunda instruccion, debes de guardar el presente proyecto, dentro de la ruta C:\Xampp\htdocs\   ahi puedes clonar el proyecto dentro de una carpeta.
 - Ahora si entras al panel de control de XAMPP e inicializas Mysql y Apache
+- Te vas a la opcion que dice "admin" dentro de MySQL,  y ahi creas una nueva base de datos llamada "registros_contactos", y despues de ello, ejecutas el script que viene incluido en el proyecto.
 - Ahora ya que tienes todo esto listo, puedes ir a tu navegador (el de tu preferencia) y escribir en la URL localhost/nombre_carpeta_donde_clonaste
 - Y de esa manera vas a poder ver la aplicacion funcional.
 
