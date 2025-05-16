@@ -1,0 +1,234 @@
+#body{
+    background-image: url('fondotitleindex.jpg');
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-color:black;
+    padding: 0;
+
+    margin: 0;
+   /* padding: 0;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #0c064a;
+    /*background-color: #f0eb86;*/
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+#bodydos{
+
+    background-color:blue;
+    padding: 0;
+
+    margin: 0;
+   /* padding: 0;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #0c064a;
+    /*background-color: #f0eb86;*/
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+#opciones{
+    font-size: 20px;
+    color: #324ae4;
+    margin-bottom: 10px;
+    text-align: center;
+    transition: color 0.3s;
+    }
+
+#opciones:hover {
+        color: #ff5733;
+}
+
+#buti{
+    background-color: #4CAF50;
+    color: white;
+   
+   
+}
+
+#TR{
+
+    background-color: #324ae4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    width: 100%;
+}
+#TRdos{
+    
+    background-color: #f4a261;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    width: 100%;
+}
+
+#h1{
+
+    font-size: 50px;
+    color:white;
+    margin-bottom: 10px;
+    text-align: center;
+    transition: color 0.3s;
+}
+
+
+        
+.princi{
+     background-color: red;
+            color: white;
+            padding: 12px 24px;
+            margin: 10px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 200px;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.princi:hover {
+            background-color: black;
+            transform: scale(1.05);
+        }
+        
+        .titulo{
+            color:white;
+            
+        }
+        h1{
+            color:white;
+            font-size: 50px;
+        }
+        
+        .princi2{
+     background-color: blue;
+            color: white;
+            padding: 12px 24px;
+            margin: 10px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 200px;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.princi2:hover {
+            background-color: red;
+            transform: scale(1.05);
+        }
+        
+
+ #body_dos{
+
+    background-color:grey;
+    padding: 0;
+
+    margin: 0;
+   /* padding: 0;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #0c064a;
+    /*background-color: #f0eb86;*/
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+#bodymostrar{
+    background-image:url('fondofooter.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:grey;
+    padding: 0;
+
+    margin: 0;
+   /* padding: 0;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #0c064a;
+    /*background-color: #f0eb86;*/
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#h1mostrar{
+
+    font-size: 50px;
+    color:black;
+    margin-bottom: 10px;
+    text-align: center;
+    transition: color 0.3s;
+}
+#enlace{
+    color:black;
+}
+
+table#TR tr td a {
+    color: black;
+    font-weight: bold;
+}
+
+
+#bodytwo{
+    background-image: url('fondoblog.gif');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-color:blueviolet;
+    padding: 0;
+
+    margin: 0;
+   /* padding: 0;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #0c064a;
+    /*background-color: #f0eb86;*/
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+footer {
+  background-color: #222;
+  color: #f0f0f0;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  border-top: 2px solid #00aaff;
+  position: relative;
+  bottom: 0;
+  width: 70%;
+}
