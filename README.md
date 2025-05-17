@@ -22,8 +22,9 @@ Se trata de una pagina web intuitiva, amigable, en la que tu puedes llevar el co
 ![Captura de pantalla 2025-05-16 141540](https://github.com/user-attachments/assets/de5ef649-a9ce-4103-aedb-dcab6d9a45c8)
 
 INFORMACION DE ESTUDIANTE:
-Lima González Saúl - 22010945
-Para más informacion contactarse: 
-saullima811@gmail.com
+Alumno: Lima Gonzalez Saul
+Docente: Patricia Quitl González
+Materia: 6G5D Programación Web
+
 
 
